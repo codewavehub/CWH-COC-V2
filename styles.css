@@ -1,0 +1,14 @@
+
+        .gradient-nav {
+            background: linear-gradient(90deg, #089ab4, #0097b2);
+        }
+        .nav-fixed {
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+        }
+        main {
+            margin-top: 80px;
+        }
+  
